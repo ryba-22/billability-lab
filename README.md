@@ -1,5 +1,7 @@
 # Billability Lab
 
+[![Tests](https://github.com/ryba-22/billability-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/ryba-22/billability-lab/actions/workflows/ci.yml)
+
 **A small executable example of why attendance, billability and charges are different concepts.**
 
 This is an original **synthetic** case study, not an extraction of a commercial system. It intentionally models *one monthly charge per participant and agreement*, under one of two plans:
